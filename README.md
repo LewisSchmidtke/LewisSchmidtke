@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 Hi That's ME!</h1>
 
 ###
 
@@ -39,15 +39,24 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
 </div>
+###
+
+<h2 align="left"> 🌐 Socials </h2>
 
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/lewismaximilianschmidtke/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
 </div>
 
 ###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LewisSchmidtke/LewisSchmidtke/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LewisSchmidtke/LewisSchmidtke/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/LewisSchmidtke/LewisSchmidtke/output/snake.svg" alt="Snake animation" />
+</picture>
 
-<img src="https://raw.githubusercontent.com/LewisSchmidtke/LewisSchmidtke/output/snake.svg" alt="Snake animation" />
 
 ###
