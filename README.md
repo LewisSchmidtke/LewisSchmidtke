@@ -52,4 +52,4 @@
 
 ###
 <img src="https://raw.githubusercontent.com/LewisSchmidtke/LewisSchmidtke/output/snake.svg" alt="Snake animation" />
-###
+
