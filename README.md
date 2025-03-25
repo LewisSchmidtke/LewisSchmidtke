@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 Hi That's ME!</h1>
+<h1 align="left">👋 Hi That's ME!</h1>
 
 ###
 
@@ -52,11 +52,5 @@
 </div>
 
 ###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LewisSchmidtke/LewisSchmidtke/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LewisSchmidtke/LewisSchmidtke/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/LewisSchmidtke/LewisSchmidtke/output/snake.svg" alt="Snake animation" />
-</picture>
-
-
+<img src="https://raw.githubusercontent.com/LewisSchmidtke/LewisSchmidtke/output/snake.svg" alt="Snake animation" />
 ###
