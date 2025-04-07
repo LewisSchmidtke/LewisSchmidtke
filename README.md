@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Lewis and I'm a ML/AI Engineer from Aachen, Germany</p>
+<p align="left">My name is Lewis and I'm a ML/AI Engineer from Aachen, Germany! You can check out my Portfolio here: https://lewisschmidtke.github.io/PortfolioWebsite/</p>
 
 ###
 
