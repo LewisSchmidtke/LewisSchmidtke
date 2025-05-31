@@ -12,7 +12,7 @@
 
 <p align="left">
 ✨ Self-taught programmer with 2 years of experience in ML/AI and Data Science.
-<br>📚 Bachelor of Science in Mechanical Engineering from RWTH.
+<br>📚 Mechanical Engineer, currently studying for y M.Sc. from RWTH.
 <br>🎲 Fun fact: I spend a lot of time riding my road bike and running.
 </p>
 
