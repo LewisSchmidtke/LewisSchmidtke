@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Lewis and I'm a ML/AI Engineer from Aachen, Germany! You can check out my Portfolio here: https://lewisschmidtke.github.io/PortfolioWebsite/</p>
+<p align="left">My name is Lewis and I'm an Automotive Engineer, with in-depth capabilities in Data Engineering and ML/AI Development from Aachen, Germany! You can check out my Portfolio here: https://lewisschmidtke.github.io/PortfolioWebsite/</p>
 
 ###
 
@@ -11,9 +11,9 @@
 ###
 
 <p align="left">
-✨ Self-taught programmer with 2 years of experience in ML/AI and Data Science.
-<br>📚 Mechanical Engineer, currently studying for my M.Sc. from RWTH.
-<br>🎲 Fun fact: I spend a lot of time riding my road bike and running.
+✨ Self-taught programmer with close to 3 years of experience in Data Engineering, ML/AI and Data Science.
+<br>📚 Automotive Mechanical Engineer, currently studying for my M.Sc. in Powertrain Engineering and Aerodynamics at RWTH.
+<br>🎲 Fun fact: I spend a lot of time running and riding my roadbike.
 </p>
 
 ###
