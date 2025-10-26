@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hi That's ME!</h1>
 
-<p align="left">Hi, My name is Lewis and I'm an Automotive Engineer with in-depth capabilities in Data Engineering and ML/AI Development from Aachen, Germany! You can check out my Portfolio here: https://lewisschmidtke.github.io/PortfolioWebsite/</p>
+<p align="left">Hi, My name is Lewis and I'm an Automotive Engineer with in-depth capabilities in Data Engineering and ML/AI Development from Aachen, Germany! You can check out my Portfolio here: https://lewisschmidtke.github.io/Portfolio/</p>
 
 <h2 align="left">About me</h2>
 
