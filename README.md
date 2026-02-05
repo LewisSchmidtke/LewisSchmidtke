@@ -1,13 +1,13 @@
 <h1 align="left">👋 Hi That's ME!</h1>
 
-<p align="left">Hi, My name is Lewis and I'm an Automotive Engineer with in-depth capabilities in Data Engineering and ML/AI Development from Aachen, Germany! You can check out my Portfolio here: https://lewisschmidtke.github.io/Portfolio/</p>
+<p align="left">Hi, My name is Lewis and I'm a Machine Learning Engineer from Germany, with 2 years of industry experience in developing custom architectures, delivering end-to-end MLOps pipelines and providing data-driven insights.</p>
 
 <h2 align="left">About me</h2>
 
 <p align="left">
-✨ Software Developer with close to 3 years of experience in Data Engineering, ML/AI and Data Science.
-<br>📚 Automotive Mechanical Engineer, currently studying for my M.Sc. in Mechanical Engineering RWTH.
-<br>⚙️ Currently working as an LMDh Data/Performance Engineer at BMW Motorsport.
+✨ Software Developer with close to 3 years of experience in ML/AI and Data Science.
+<br>📚 Bachelor graduate from RWTH, currently studying for my M.Sc. in Simulation RWTH.
+<br>⚙️ Currently working as an LMDh Data/Performance Engineer at BMW M Motorsport.
 <br>🎲 Fun fact: I spend a lot of time running and riding my roadbike.
 </p>
 
