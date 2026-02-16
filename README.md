@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hi That's ME!</h1>
 
-<p align="left">Hi, My name is Lewis and I'm a Machine Learning Engineer from Germany, with 2 years of industry experience in developing custom architectures, delivering end-to-end MLOps pipelines and providing data-driven insights. My professional contributions are madse from enterprise accounts and cannot be found on my private profile. Here, I occasionally develop side-projects to learn new technologies and enjoy the fun of programming.</p>
+<p align="left">Hi, My name is Lewis and I'm a Machine Learning Engineer from Germany, with 2 years of industry experience in developing custom architectures, delivering end-to-end MLOps pipelines and providing data-driven insights. My professional contributions are made from enterprise accounts and cannot be found on my private profile. Here, I occasionally develop side-projects to learn new technologies and enjoy the fun of programming.</p>
 
 <h2 align="left">About me</h2>
 
