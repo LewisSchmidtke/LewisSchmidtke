@@ -1,13 +1,13 @@
 <h1 align="left">👋 Hi That's ME!</h1>
 
-<p align="left">Hi, My name is Lewis and I'm a Machine Learning Engineer from Germany, with 2 years of industry experience in developing custom architectures, delivering end-to-end MLOps pipelines and providing data-driven insights.</p>
+<p align="left">Hi, My name is Lewis and I'm a Machine Learning Engineer from Germany, with 2 years of industry experience in developing custom architectures, delivering end-to-end MLOps pipelines and providing data-driven insights. My professional contributions are madse from enterprise accounts and cannot be found on my private profile. Here, I occasionally develop side-projects to learn new technologies and enjoy the fun of programming.</p>
 
 <h2 align="left">About me</h2>
 
 <p align="left">
-✨ Software Developer with close to 3 years of experience in ML/AI and Data Science.
-<br>📚 Bachelor graduate from RWTH, currently studying for my M.Sc. in Simulation RWTH.
-<br>⚙️ Currently working as an LMDh Data/Performance Engineer at BMW M Motorsport.
+✨ Machine Learning engineer with close to 3 years of experience in ML/AI and Data Science.
+<br>📚 Bachelor graduate from RWTH, currently studying for my M.Sc. in Simulation at RWTH.
+<br>⚙️ Currently working as a SWE intern at BMW M Motorsport.
 <br>🎲 Fun fact: I spend a lot of time running and riding my roadbike.
 </p>
 
