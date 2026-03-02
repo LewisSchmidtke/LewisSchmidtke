@@ -7,7 +7,7 @@
 <p align="left">
 ✨ Machine Learning engineer with close to 3 years of experience in ML/AI and Data Science.
 <br>📚 Bachelor graduate from RWTH, currently studying for my M.Sc. in Simulation at RWTH.
-<br>⚙️ Currently working as a SWE intern at BMW M Motorsport.
+<br>⚙️ Fastlane Scholar at BMW Group, doing Software and ML work.
 <br>🎲 Fun fact: I spend a lot of time running and riding my roadbike.
 </p>
 
@@ -18,14 +18,16 @@
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="Scikit-Learn" />
 </div>
 
 <h2 align="left"> 🌐 Socials </h2>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/lewismaximilianschmidtke/" target="_blank">
+  <a href="https://www.linkedin.com/in/lewis-m-schmidtke/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 </div>
