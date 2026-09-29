@@ -1,6 +1,10 @@
 <h1 align="left">👋 Hi That's ME!</h1>
 
-<p align="left">Hi, My name is Lewis and I'm a Machine Learning Engineer from Germany, with 2 years of industry experience in developing custom architectures, delivering end-to-end MLOps pipelines and providing data-driven insights. My professional contributions are made from enterprise accounts and cannot be found on my private profile. Here, I occasionally develop side-projects to learn new technologies and enjoy the fun of programming.</p>
+<p align="left">Hi, My name is Lewis and I am an engineer with three years of hands-on internship and research experience in software engineering and machine learning, across robotics, automotive, manufacturing and motorsports. Currently completing an M.Sc. in Simulation Science at RWTH Aachen, and joining AWS in Dublin as an SDE intern working on enterprise tooling for network lifecycle management.
+ 
+My prior work has ranged from deploying a computer vision model into a manufacturing environment at sub-second latency, to training transformer models on 1.4M-feature vehicle data at Porsche, to building the Python tooling that turns a million race datapoints into strategy KPIs used by chief engineers at BMW Motorsport.
+ 
+Focused on software engineering, with machine learning systems as a continued specialization.</p>
 
 <h2 align="left">About me</h2>
 
