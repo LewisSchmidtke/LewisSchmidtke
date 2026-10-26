@@ -9,22 +9,24 @@ Focused on software engineering, with machine learning systems as a continued sp
 <h2 align="left">About me</h2>
 
 <p align="left">
-✨ Machine Learning engineer with close to 3 years of experience in ML/AI and Data Science.
-<br>📚 Bachelor graduate from RWTH, currently studying for my M.Sc. in Simulation at RWTH.
-<br>⚙️ Fastlane Scholar at BMW Group, doing Software and ML work.
-<br>🎲 Fun fact: I spend a lot of time running and riding my roadbike.
+✨ Software engineer with experience in ML/AI research, production development and cloud design.
+<br>📚 Bachelor graduate from RWTH, currently enrolled in a M.Sc. at RWTH.
+<br>⚙️ Currently an intern at Amazon Web Services (AWS) where I am working on new features to improve hardware provisioning in global data center operations.
+<br>🎲 Fun fact: I spend a lot of time running and riding my roadbike. I am an avid movie watcher and am pretty good at shuffling cards.
 </p>
 
 <h2 align="left"> 💻 Tech Stack</h2>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow" />
   <img src="https://skillicons.dev/icons?i=sklearn" height="40" alt="Scikit-Learn" />
 </div>
 
