@@ -19,7 +19,7 @@ Focused on software engineering, with machine learning systems as a continued sp
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="python" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="c++" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
