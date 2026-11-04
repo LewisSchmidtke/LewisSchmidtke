@@ -1,10 +1,6 @@
 <h1 align="left">👋 Hi That's ME!</h1>
 
-<p align="left">Hi, My name is Lewis and I am an engineer with three years of hands-on internship and research experience in software engineering and machine learning, across robotics, automotive, manufacturing and motorsports. Currently completing an M.Sc. in Simulation Science at RWTH Aachen, and joining AWS in Dublin as an SDE intern working on enterprise tooling for network lifecycle management.
- 
-My prior work has ranged from deploying a computer vision model into a manufacturing environment at sub-second latency, to training transformer models on 1.4M-feature vehicle data at Porsche, to building the Python tooling that turns a million race datapoints into strategy KPIs used by chief engineers at BMW Motorsport.
- 
-Focused on software engineering, with machine learning systems as a continued specialization.</p>
+<p align="left">Hi, My name is Lewis and I am an engineer with three years of hands-on internship and research experience in software engineering and machine learning, across tech, robotics and physical domains. I am currently completing a M.Sc. in Simulation Science at RWTH Aachen and working at AWS in Dublin as an SDE intern, where my work is focused on developing AI agents for the global data center infrastructure of AWS.</p>
 
 <h2 align="left">About me</h2>
 
